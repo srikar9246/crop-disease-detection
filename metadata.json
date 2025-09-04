@@ -1,0 +1,5 @@
+{
+  "name": "Crop Disease Detection",
+  "description": "An AI-powered application to detect diseases in crops by analyzing leaf images. Upload an image of a crop leaf, and the system will identify potential diseases and suggest treatments.",
+  "requestFramePermissions": []
+}
